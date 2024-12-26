@@ -4,6 +4,8 @@ A simple Python script.
 
 Purpose is to allow users to check their hardware information with ease.
 
+Easily access your computers hardware information essentials using this program.
+
 ---
 
 ## 📋 Features
