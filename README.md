@@ -115,13 +115,17 @@ Follow these steps to package/build the Python script into an executable using *
 
 ---
 
-## 🔗 Links
+## 🔗 Links & Statistics
 
-- **[Latest Release](https://github.com/Justagwas/Hardware-Information/releases/latest)**  
-- **[Issues](https://github.com/Justagwas/Hardware-Information/issues)**  
+[![Latest Release](https://img.shields.io/badge/🔖%20Latest%20Release-blue?style=for-the-badge)](https://github.com/Justagwas/Hardware-Information/releases/latest)  
+[![Issues](https://img.shields.io/badge/🐛%20Issues-orange?style=for-the-badge)](https://github.com/Justagwas/Hardware-Information/issues)  
+[![Contributors](https://img.shields.io/github/contributors/Justagwas/Hardware-Information?label=👥%20Contributors&style=for-the-badge)](https://github.com/Justagwas/Hardware-Information/graphs/contributors)  
+[![Download Count](https://img.shields.io/github/downloads/Justagwas/Hardware-Information/total?label=⬇️%20Total%20Downloads&style=for-the-badge&color=blue)](https://github.com/Justagwas/Hardware-Information/releases)  
+[![Open Issues](https://img.shields.io/github/issues/Justagwas/Hardware-Information?label=🐛%20Open%20Issues&style=for-the-badge)](https://github.com/Justagwas/Hardware-Information/issues)  
+[![Last Commit](https://img.shields.io/github/last-commit/Justagwas/Hardware-Information?label=🕒%20Last%20Commit&style=for-the-badge)](https://github.com/Justagwas/Hardware-Information/commits)  
 
 ---
 
 ## 📜 License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE.txt) file for more details.
+[![License](https://img.shields.io/github/license/Justagwas/Hardware-Information?label=📝%20License&style=for-the-badge)](LICENSE.txt)
